@@ -1,0 +1,8 @@
+D:\ubaytest\ConsoleApp1\MathLibrary\bin\Release\MathLibrary.dll
+D:\ubaytest\ConsoleApp1\MathLibrary\bin\Release\MathLibrary.pdb
+D:\ubaytest\ConsoleApp1\MathLibrary\bin\Release\Newtonsoft.Json.dll
+D:\ubaytest\ConsoleApp1\MathLibrary\bin\Release\Newtonsoft.Json.xml
+D:\ubaytest\ConsoleApp1\MathLibrary\obj\Release\MathLibrary.csproj.CoreCompileInputs.cache
+D:\ubaytest\ConsoleApp1\MathLibrary\obj\Release\MathLibrary.csproj.CopyComplete
+D:\ubaytest\ConsoleApp1\MathLibrary\obj\Release\MathLibrary.dll
+D:\ubaytest\ConsoleApp1\MathLibrary\obj\Release\MathLibrary.pdb

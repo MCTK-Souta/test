@@ -1,0 +1,9 @@
+D:\ubaytest\ConsoleApp1\MathLibrary\bin\Debug\MathLibrary.dll
+D:\ubaytest\ConsoleApp1\MathLibrary\bin\Debug\MathLibrary.pdb
+D:\ubaytest\ConsoleApp1\MathLibrary\obj\Debug\MathLibrary.csproj.CoreCompileInputs.cache
+D:\ubaytest\ConsoleApp1\MathLibrary\obj\Debug\MathLibrary.dll
+D:\ubaytest\ConsoleApp1\MathLibrary\obj\Debug\MathLibrary.pdb
+D:\ubaytest\ConsoleApp1\MathLibrary\bin\Debug\Newtonsoft.Json.dll
+D:\ubaytest\ConsoleApp1\MathLibrary\bin\Debug\Newtonsoft.Json.xml
+D:\ubaytest\ConsoleApp1\MathLibrary\obj\Debug\MathLibrary.csproj.CopyComplete
+D:\ubaytest\ConsoleApp1\MathLibrary\obj\Debug\MathLibrary.csprojAssemblyReference.cache

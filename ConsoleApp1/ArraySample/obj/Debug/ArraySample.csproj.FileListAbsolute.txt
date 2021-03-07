@@ -1,0 +1,6 @@
+D:\ubaytest\ConsoleApp1\ArraySample\bin\Debug\ArraySample.exe.config
+D:\ubaytest\ConsoleApp1\ArraySample\bin\Debug\ArraySample.exe
+D:\ubaytest\ConsoleApp1\ArraySample\bin\Debug\ArraySample.pdb
+D:\ubaytest\ConsoleApp1\ArraySample\obj\Debug\ArraySample.csproj.CoreCompileInputs.cache
+D:\ubaytest\ConsoleApp1\ArraySample\obj\Debug\ArraySample.exe
+D:\ubaytest\ConsoleApp1\ArraySample\obj\Debug\ArraySample.pdb

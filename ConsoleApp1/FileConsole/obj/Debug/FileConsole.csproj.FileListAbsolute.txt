@@ -1,0 +1,7 @@
+D:\ubaytest\ConsoleApp1\FileConsole\bin\Debug\FileConsole.exe.config
+D:\ubaytest\ConsoleApp1\FileConsole\bin\Debug\FileConsole.exe
+D:\ubaytest\ConsoleApp1\FileConsole\bin\Debug\FileConsole.pdb
+D:\ubaytest\ConsoleApp1\FileConsole\obj\Debug\FileConsole.csproj.CoreCompileInputs.cache
+D:\ubaytest\ConsoleApp1\FileConsole\obj\Debug\FileConsole.exe
+D:\ubaytest\ConsoleApp1\FileConsole\obj\Debug\FileConsole.pdb
+D:\ubaytest\ConsoleApp1\FileConsole\obj\Debug\FileConsole.csprojAssemblyReference.cache
