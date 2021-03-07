@@ -10,7 +10,7 @@ namespace ConsoleApp3
     {
         public static void SleepAwhile(int second)
         {
-            int ms = second * 1000;
+            int ms = second * 1000 * 2;
             System.Threading.Thread.Sleep(ms);
         }
     }
