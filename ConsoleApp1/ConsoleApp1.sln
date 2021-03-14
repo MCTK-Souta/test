@@ -17,6 +17,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp3", "ConsoleApp3\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp5", "ConsoleApp5\ConsoleApp5.csproj", "{C1E2146D-E84E-4E75-AFB1-4E74E0BB6735}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SQL", "SQL\SQL.csproj", "{FA82E443-0EBD-4183-B323-9BC0D3D580AC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplication1", "WebApplication1\WebApplication1.csproj", "{10103D7C-CD4E-490D-92F1-8CA77F909EAA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +55,14 @@ Global
 		{C1E2146D-E84E-4E75-AFB1-4E74E0BB6735}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C1E2146D-E84E-4E75-AFB1-4E74E0BB6735}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C1E2146D-E84E-4E75-AFB1-4E74E0BB6735}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA82E443-0EBD-4183-B323-9BC0D3D580AC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA82E443-0EBD-4183-B323-9BC0D3D580AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA82E443-0EBD-4183-B323-9BC0D3D580AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA82E443-0EBD-4183-B323-9BC0D3D580AC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{10103D7C-CD4E-490D-92F1-8CA77F909EAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10103D7C-CD4E-490D-92F1-8CA77F909EAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10103D7C-CD4E-490D-92F1-8CA77F909EAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10103D7C-CD4E-490D-92F1-8CA77F909EAA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -5,3 +5,10 @@ D:\ubaytest\ConsoleApp1\ConsoleApp3\obj\Debug\ConsoleApp3.csprojAssemblyReferenc
 D:\ubaytest\ConsoleApp1\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.CoreCompileInputs.cache
 D:\ubaytest\ConsoleApp1\ConsoleApp3\obj\Debug\ConsoleApp3.exe
 D:\ubaytest\ConsoleApp1\ConsoleApp3\obj\Debug\ConsoleApp3.pdb
+D:\ubaytest\Git\ConsoleApp1\ConsoleApp3\bin\Debug\ConsoleApp3.exe.config
+D:\ubaytest\Git\ConsoleApp1\ConsoleApp3\bin\Debug\ConsoleApp3.exe
+D:\ubaytest\Git\ConsoleApp1\ConsoleApp3\bin\Debug\ConsoleApp3.pdb
+D:\ubaytest\Git\ConsoleApp1\ConsoleApp3\obj\Debug\ConsoleApp3.csprojAssemblyReference.cache
+D:\ubaytest\Git\ConsoleApp1\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.CoreCompileInputs.cache
+D:\ubaytest\Git\ConsoleApp1\ConsoleApp3\obj\Debug\ConsoleApp3.exe
+D:\ubaytest\Git\ConsoleApp1\ConsoleApp3\obj\Debug\ConsoleApp3.pdb

@@ -23,10 +23,6 @@ namespace ConsoleApp5
 
             sw.Reset();
 
-            
-
-
-
             Console.WriteLine("Program End. Total use " + sw.ElapsedMilliseconds);
             Console.ReadLine();
         }
